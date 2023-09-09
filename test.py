@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 def caesar_decrypt(encoded_message):
     decrypted_message = ""
     
@@ -18,3 +19,8 @@ def caesar_decrypt(encoded_message):
 encoded_letter = "Hello world"
 decoded_letter = caesar_decrypt(encoded_letter)
 print("Decoded letter:", decoded_letter)
+=======
+for _ in range(1, 6):
+    print(_, end="-")
+
+>>>>>>> 68746acc144a4060f14fa1af31da78017e24c641
